@@ -1,1 +1,1 @@
-# secondtaskpythonprogramming
+# secondtaskpythonprogramming . this   our     second  task . fist    page   contain  question    solved      through    if   and     nested     if     statment  .    and    second       page   conatin    question    solved    through   loop   and  while  loop.
